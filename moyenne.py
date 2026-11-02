@@ -17,6 +17,16 @@ else :
     
     print("Mention:trés bien")
 
+
+code=input("donner code")
+nom =input("donner nom")
+prenom=input("donner prenom")
+print("code:",code)
+print("nom:",nom)
+print("prenom:",prenom)
+
+
+
          
         
 
