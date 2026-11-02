@@ -12,10 +12,10 @@ elif moy <14:
     
     print("Mention:Asser bien")
 elif moy <16:
-    print("Mention:trés bien")
+    print("Mention: bien")
 else :
     
-    print("Mention:trés trés bien")
+    print("Mention:trés bien")
 
          
         
